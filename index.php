@@ -1,5 +1,7 @@
 <?php
 
-echo "Hello <strong>World</strong> - Primeiro código em PHP - código modificado no git";
+echo "Hello World - Primeiro código em PHP - código modificado no git";
+
+echo "olá Udemy";
 
 ?>
